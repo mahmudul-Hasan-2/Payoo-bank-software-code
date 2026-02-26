@@ -37,7 +37,6 @@ In this project, I implemented the following programming concepts:
 
 ## 🚀 Future Enhancements
 - [ ] **Transaction History:** A log to track every deposit and withdrawal.
-- [ ] **Local Storage:** Persisting the balance so data isn't lost on page refresh.
 - [ ] **Input Validation:** Better error messaging for empty fields or invalid PINs.
 
 ---
