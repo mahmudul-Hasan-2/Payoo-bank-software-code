@@ -29,7 +29,7 @@ A lightweight **Mobile Banking Dashboard** built to practice and demonstrate **J
 ## 🧠 Core Logic & Learning Outcomes
 In this project, I implemented the following programming concepts:
 1.  **Event Listeners:** Used `addEventListener` to capture user interactions like clicks and form submissions.
-2.  **Data Extraction:** Captured `value` from input fields and converted them into numbers using `parseFloat()` for accurate calculations.
+2.  **Data Extraction:** Captured `value` from input fields.
 3.  **Conditional Logic:** Applied `if-else` blocks to verify PIN codes and ensure the withdrawal amount does not exceed the current balance.
 4.  **DOM Updating:** Dynamically updated the `innerText` of balance elements to reflect real-time changes to the user.
 
