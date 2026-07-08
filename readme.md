@@ -54,4 +54,4 @@ In this project, I implemented the following programming concepts:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git](https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git)
+   git clone https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git
