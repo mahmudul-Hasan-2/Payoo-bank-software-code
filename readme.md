@@ -12,8 +12,8 @@ A lightweight **Mobile Banking Dashboard** built to practice and demonstrate **J
 ## 🔐 Default Credentials
 
 > [!IMPORTANT]
-> Use the following credentials to log in and test the application:
-> - **Phone Number:** `01748121881`
+> Use the following credentials to log in and test all kinds of services (including Agent services):
+> - **Phone Number (User / Agent):** `01748121881`
 > - **PIN:** `1234`
 
 ---
@@ -54,4 +54,4 @@ In this project, I implemented the following programming concepts:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git
+   git clone [https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git](https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git)
