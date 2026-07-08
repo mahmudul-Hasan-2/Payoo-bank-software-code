@@ -5,7 +5,16 @@ A lightweight **Mobile Banking Dashboard** built to practice and demonstrate **J
 ---
 
 ## 🔗 Live Demo
-[https://mahmudul-hasan-2.github.io/Payoo-bank-software-code/]
+[https://mahmudul-hasan-2.github.io/Payoo-bank-software-code/](https://mahmudul-hasan-2.github.io/Payoo-bank-software-code/)
+
+---
+
+## 🔐 Default Credentials
+
+> [!IMPORTANT]
+> Use the following credentials to log in and test the application:
+> - **Phone Number:** `01748121881`
+> - **PIN:** `1234`
 
 ---
 
@@ -44,4 +53,4 @@ In this project, I implemented the following programming concepts:
 ## 🛠️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git
+   git clone [https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git](https://github.com/mahmudul-Hasan-2/Payoo-bank-software-code.git)
